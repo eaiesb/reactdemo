@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eaiesb/reactdemo/static/css/main.7d4e4437.css",
+    "main.js": "/eaiesb/reactdemo/static/js/main.6e29fd2a.js",
+    "static/js/787.c06ea3cc.chunk.js": "/eaiesb/reactdemo/static/js/787.c06ea3cc.chunk.js",
+    "index.html": "/eaiesb/reactdemo/index.html",
+    "main.7d4e4437.css.map": "/eaiesb/reactdemo/static/css/main.7d4e4437.css.map",
+    "main.6e29fd2a.js.map": "/eaiesb/reactdemo/static/js/main.6e29fd2a.js.map",
+    "787.c06ea3cc.chunk.js.map": "/eaiesb/reactdemo/static/js/787.c06ea3cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4e4437.css",
+    "static/js/main.6e29fd2a.js"
+  ]
+}
