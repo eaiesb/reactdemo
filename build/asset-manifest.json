@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vamsie165/reactDemo/static/css/main.7d4e4437.css",
+    "main.js": "/vamsie165/reactDemo/static/js/main.1f3ef11e.js",
+    "static/js/787.c06ea3cc.chunk.js": "/vamsie165/reactDemo/static/js/787.c06ea3cc.chunk.js",
+    "index.html": "/vamsie165/reactDemo/index.html",
+    "main.7d4e4437.css.map": "/vamsie165/reactDemo/static/css/main.7d4e4437.css.map",
+    "main.1f3ef11e.js.map": "/vamsie165/reactDemo/static/js/main.1f3ef11e.js.map",
+    "787.c06ea3cc.chunk.js.map": "/vamsie165/reactDemo/static/js/787.c06ea3cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4e4437.css",
+    "static/js/main.1f3ef11e.js"
+  ]
+}
